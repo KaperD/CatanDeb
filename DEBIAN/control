@@ -1,0 +1,10 @@
+Package: catan
+Version: 1.0
+Section: games
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: Danil Bubnov
+Description: Settlers of catan game
+Depends: libsdl2-image-2.0-0, libsdl2-2.0-0, libgl1-mesa-dev
+ 
