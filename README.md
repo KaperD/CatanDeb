@@ -14,7 +14,7 @@
 
 ## Уже собранный пакет можно скачать здесь: [sourceforge](https://sourceforge.net/projects/hse-settlers-of-catan/files/)
 
-- ###  ```$ sudo apt install ./Catan_1.0_all.deb``` — установить
+- ###  ```$ sudo apt install ./Catan_1.1_x64.deb``` — установить
 
 - ### ```$ catan``` — запустить
 
